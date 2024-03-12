@@ -1,7 +1,7 @@
 
 <ul>
-<li>👨‍💻 Stack: PHP, Golang, Python</li>
-<li>🔭 Currently working on: Laravel, DevOps, JS/TS</li>
+<li>👨‍💻 Stack: PHP, Python</li>
+<li>🔭 Currently learning: Laravel, Golang</li>
 </ul>
 <!--
 <h1 align="center">👋</h1>
