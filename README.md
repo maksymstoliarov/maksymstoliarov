@@ -1,7 +1,7 @@
 
 <ul>
 <li>👨‍💻 Stack: PHP, Python</li>
-<li>🔭 Currently learning and practicing <a href="https://github.com/maksymstoliarov-golang" target="_blank">Golang</a></li>
+<li>🔭 Currently learning and practicing Golang</li>
 </ul>
 <!--
 <h1 align="center">👋</h1>
