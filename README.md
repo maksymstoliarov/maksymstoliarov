@@ -1,7 +1,6 @@
 
 <ul>
-<li>👨‍💻 Stack: PHP, Python</li>
-<li>🔭 Currently learning and practicing Golang</li>
+<li>👨‍💻 Stack: PHP, Python, Golang</li>
 </ul>
 <!--
 <h1 align="center">👋</h1>
