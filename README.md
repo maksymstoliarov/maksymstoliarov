@@ -1,6 +1,6 @@
 
 <ul>
-<li>👨‍💻 Stack: PHP, Python, Golang</li>
+<li>👨‍💻 Stack: PHP, Python, Go</li>
 </ul>
 <!--
 <h1 align="center">👋</h1>
