@@ -1,8 +1,8 @@
 
 <ul>
 <li>👨‍💻 Stack: PHP, Python, Go</li>
-  <li><a href="https://t.me/derdiedas_quiz_bot">https://t.me/derdiedas_quiz_bot</a></li>
 </ul>
+<a href="https://t.me/derdiedas_quiz_bot">https://t.me/derdiedas_quiz_bot</a>
 <!--
 <h1 align="center">👋</h1>
 
